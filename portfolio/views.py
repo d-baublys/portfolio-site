@@ -28,7 +28,7 @@ class HomeView(View):
                     "srcset": f"{static("portfolio/images/blogpreview-480w.png")} 480w, {static("portfolio/images/blogpreview-768w.png")} 768w, {static("portfolio/images/blogpreview-1200w.png")} 1200w",
                     "title": "Blog Site",
                     "alt": "Blog Site Preview",
-                    "live_link": "https://db-blog.co.uk",
+                    "live_link": "https://db-blog.up.railway.app",
                     "github_link": "https://github.com/d-baublys/django_blog",
                 },
                 {
